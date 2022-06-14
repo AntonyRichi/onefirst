@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(30deg, rgb(85, 134, 122), rgb(248, 244, 244));
+    color:#0f141e;
+    font-size: 24px;
+    font-weight: normal;
+    font-family: 'gost type a', sans-serif;
+    margin-bottom: 200px;
+}
+p{
+    color: aliceblue;
+}
+li{
+    color: rgb(255, 255, 255);
+}
+
+.info p {
+color:rgb(255, 255, 255);
+margin: auto;
+padding: 15px;
+
+}
+.info{
+   
+    background-image: 
+    url(https://sun9-69.userapi.com/s/v1/if2/h_YaNUwCHoDGAf1geSmSeVnOwwqijdD2whSOHvzBMNf2jXyoTBFNBQXsj_qX1zgwxvQyBdMqGsFvdXfYBR6XhWmA.jpg?size=310x396&quality=96&type=album) 
+    ;
+    
+    background-repeat: no-repeat;
+    padding-top: 180px;
+    padding-bottom: 75px;
+    margin: auto;
+}
+.danil{
+    width: 228px;
+    padding: 35px;
+}
+h1{
+    color: aliceblue;
+    margin: ;
+}
